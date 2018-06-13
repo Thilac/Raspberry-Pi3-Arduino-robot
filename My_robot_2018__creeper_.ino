@@ -121,11 +121,11 @@ void loop() {
     /*
         if (area >= 71) {
 
-          // Reverse the car
+          // Reverse the car functions (controll Motor)
         }
 
         else if (area < 10) {
-          // Go forward
+          // Go forward function (controll Motor)
         }
 
     */
